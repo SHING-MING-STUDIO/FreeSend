@@ -25,16 +25,16 @@ Whether you’re using devices with different systems such as iOS, iPadOS, macOS
 - Search device IP on the local network.
 - Auto-detect whether your device is connected to a Wi-Fi or Ethernet network for preparing to transmit data between different devices.
 
-### **:dolphin: More details about FreeSend :baby_chick:**
+### **More details about FreeSend**
 - Software Website: https://github.com/SHING-MING-STUDIO/FreeSend
 - Software FAQ: https://hackmd.io/@ShingMing/FreeSendFAQ
 - Software License: https://hackmd.io/@ShingMing/FreeSendLicense
 - Privacy Policy: https://hackmd.io/@ShingMing/ShingMingStudioPrivacyPolicy
 
-### **:female-detective: Issue report :male-detective:**
+### **:bug: Issue report :spider:**
 If you encounter any software issues, please feel free to report via this [link](https://github.com/SHING-MING-STUDIO/FreeSend/issues). Thank you.
 
-### **:tiger: About Author / Contact Information :smile_cat:**
+### **:tiger: About Author / Contact Information :dog2:**
 - Web - https://shingming.co/
 - Mail - shingming.cs@icloud.com
 - Donation - I have been writing this app in my personal time for about one and a half years; if this app good to you, please consider supporting me and everything I do! Thank you, Tim :)
@@ -43,7 +43,7 @@ If you encounter any software issues, please feel free to report via this [link]
 
 
 
-### **:tiger2: Screenshot :dog2:**
+### **Screenshot**
 | Platform     | Image                                                                                                                                                                                                                                                                                                        |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | macOS        | ![1. home - en](https://hackmd.io/_uploads/HkhFpjER6.jpg)![2. adding - en](https://hackmd.io/_uploads/rkpcTiNAa.jpg)![3. setting - en](https://hackmd.io/_uploads/Sy_jpsEAT.jpg) ![4. sending - en](https://hackmd.io/_uploads/r1uiTi4Ap.jpg) ![5. receiving - en](https://hackmd.io/_uploads/HJOias4A6.jpg) |
