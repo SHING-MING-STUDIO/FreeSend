@@ -31,6 +31,9 @@ Whether you’re using devices with different systems such as iOS, iPadOS, macOS
 - Software License: https://hackmd.io/@ShingMing/FreeSendLicense
 - Privacy Policy: https://hackmd.io/@ShingMing/ShingMingStudioPrivacyPolicy
 
+### **Special thanks to**
+- Chi Yat, Nam, who translated and added the Japanese language to the software.
+
 ### **:bug: Issue report :spider:**
 If you encounter any software issues, please feel free to report via this [link](https://github.com/SHING-MING-STUDIO/FreeSend/issues). Thank you.
 
