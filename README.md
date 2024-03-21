@@ -3,7 +3,7 @@
 
 ### **:tiger: Freely to Send Everywhere. Cross-platform, Free, Fast, & Simple :cat:**
 
-Whether you’re using devices with different systems such as iOS, iPadOS, macOS, Android, or Windows, just connecting to the same location network, then FreeSend lets you freely, safely, and easily transmit any files on the above devices, giving you more time to focus on what matters.
+Whether you’re using devices with different systems such as iOS, iPadOS, macOS, Android, or Windows, just connecting to the same local network, then FreeSend lets you freely, safely, and easily transmit any files on the above devices, giving you more time to focus on what matters.
 
 
 |        Supported Platform         |                                                            macOS                                                            |                                                   Windows                                                    |                                                   iOS / iPadOS                                                   |                                                Android                                                |
@@ -18,7 +18,7 @@ Whether you’re using devices with different systems such as iOS, iPadOS, macOS
 26f968acce72441acaf9e6fa15eab91233325c9a24021a3faaac42ebb888370683bc7bd9f0319da02bf1cc57f716d603d985fd749457740fc7e19c78281c3809
 ```
 
-### **:bear: Key feature :hamster:**
+### **Key feature**
 - Send videos, photos, word documents, PDFs, and more.
 - Transmit data with just a few clicks between devices, even if they are different operation systems.
 - Share across OS ecosystems (iOS, iPadOS, macOS, Android, and Windows)
