@@ -1,5 +1,5 @@
 # FreeSend
-###### tags: SHING MING STUDIO, FreeSend, Introduction
+###### tags: FreeSend, ReadMe, SHING MING STUDIO
 
 ### **:tiger: Freely to Send Everywhere. Cross-platform, Free, Fast, & Simple :cat:**
 
@@ -11,11 +11,11 @@ Whether you’re using devices with different systems such as iOS, iPadOS, macOS
 |        Supported  Version         |                                                             13+                                                             |                                                     10+                                                      |                                                      14.2+                                                       |                                                  9+                                                   |
 |      Supported Architecture       |                                                            arm64                                                            |                                                  x64, arm64                                                  |                                                       N/A                                                        |                                                  N/A                                                  |
 |          Download Source          |                                                           Github                                                            |                                               Microsoft Store                                                |                                                    App Store                                                     |                                              Google Play                                              |
-| Download Link (Click the picture) | [![1. github](https://hackmd.io/_uploads/SJltNPi6p.png)](https://github.com/SHING-MING-STUDIO/FreeSend/releases/tag/v1.2.0) | [![2. Windows](https://hackmd.io/_uploads/By3t4Psap.png)](https://www.microsoft.com/store/apps/9NK38N2TXDGG) | [![3. App Store](https://hackmd.io/_uploads/r1X54vopT.png)](https://apps.apple.com/us/app/freesend/id6478240515) | ![4. Google Play](https://hackmd.io/_uploads/Bksc4Poap.png) **<font color=red>Coming Soon...</font>** |
+| Download Link (Click the picture) | [![1. github](https://hackmd.io/_uploads/SJltNPi6p.png)](https://github.com/SHING-MING-STUDIO/FreeSend/releases/tag/v1.2.2) | [![2. Windows](https://hackmd.io/_uploads/By3t4Psap.png)](https://www.microsoft.com/store/apps/9NK38N2TXDGG) | [![3. App Store](https://hackmd.io/_uploads/r1X54vopT.png)](https://apps.apple.com/us/app/freesend/id6478240515) | ![4. Google Play](https://hackmd.io/_uploads/Bksc4Poap.png) **<font color=red>Coming Soon...</font>** |
 
-**:owl: <font color=cake>Checksum (SHA512) of macOS v1.2.0 download on GitHub</font> :eagle:**
+**:owl: <font color=cake>Checksum (SHA512) of macOS v1.2.2 download on GitHub</font> :eagle:**
 ```
-26f968acce72441acaf9e6fa15eab91233325c9a24021a3faaac42ebb888370683bc7bd9f0319da02bf1cc57f716d603d985fd749457740fc7e19c78281c3809
+3caa71a4035800185a1a289d7341a5f577375ee8319750b5348d895378713b1ac51d778e8ce8f6301d0c34bfb039a1eab524f1dcec9af4bae89005c0eb66e31b
 ```
 
 ### **Key feature**
